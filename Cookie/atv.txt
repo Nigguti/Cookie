@@ -1,0 +1,13 @@
+Requisitos:
+
+[]-HTML
+[]-CSS
+[]-JSS
+
+Ideia fazer um site com um Cookie.
+
+A ideia fazer clicar no Cookie.. seria um Cookie clicável..
+
+Passos:
+
+1 [] Criar a parte Html do site
